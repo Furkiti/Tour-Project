@@ -107,7 +107,7 @@
         </p>
         <br>
         <br>
-        <h3>Danışmanlarımız</h3>
+        <h3>Bazı Danışmanlarımız</h3>
         <hr>
           <div class="card" style="width: 18rem;">
           <img src="https://thispersondoesnotexist.com/image" class="card-img-top" alt="...">
