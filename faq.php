@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Modern Business - Start Bootstrap Template</title>
+  <title>Sıkça Sorulan Sorular (S.S.S)</title>
 
   <!-- Bootstrap core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -31,22 +31,20 @@
   <div class="container">
 
     <!-- Page Heading/Breadcrumbs -->
-    <h1 class="mt-4 mb-3">FAQ
-      <small>Subheading</small>
-    </h1>
+    <h1 class="mt-4 mb-3">Sıkça Sorulan Sorular</h1>
 
     <ol class="breadcrumb">
       <li class="breadcrumb-item">
-        <a href="index.html">Home</a>
+        <a href="index.php">Ana Sayfa</a>
       </li>
-      <li class="breadcrumb-item active">FAQ</li>
+      <li class="breadcrumb-item active">S.S.S</li>
     </ol>
 
     <div class="mb-4" id="accordion" role="tablist" aria-multiselectable="true">
       <div class="card">
         <div class="card-header" role="tab" id="headingOne">
           <h5 class="mb-0">
-            <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Collapsible Group Item #1</a>
+            <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Sağlık Sigortam Olacak mı ?</a>
           </h5>
         </div>
 

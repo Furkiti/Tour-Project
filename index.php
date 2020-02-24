@@ -15,6 +15,8 @@
   <!-- Custom styles for this template -->
   <link href="css/modern-business.css" rel="stylesheet">
 
+  <link rel="stylesheet" href="css/index.css">
+
 </head>
 
 <body>
@@ -104,7 +106,7 @@
   </header>
 
   <!-- Page Content -->
-  <div class="container">
+  <div class="container indexcontainer">
 
     <h1 class="my-4" style="text-align:center;">EN ÇOK TERCİH EDİLEN TURLARIMIZ</h1>
     <hr>

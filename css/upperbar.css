@@ -1,13 +1,11 @@
 .socialmedia{
 
-  border:solid black;
-  border-width: thin;
   padding-right: 0em;
 }
 
 .seperator{
 
-  border :solid black;
+  border :solid white;
   border-width: thin;
   margin-top : 0.5em;
   margin-bottom: 0.5em;
@@ -16,11 +14,11 @@
 .nav-link{
   font-family: 'Roboto Condensed';
   font-size: 1.2em;
-  color: black!important;
+  color: white!important;
 }
 
 .navbar-brand{
-  color: black!important;
+  color: white!important;
   font-weight: bold;
   font-size: 1.6em;
 
@@ -38,6 +36,6 @@
 
 .navbar{
   padding-bottom: 0.2em;
-  background: rgb(115,64,7);
-    background: linear-gradient(90deg, rgba(115,64,7,1) 0%, rgba(121,79,9,1) 19%, rgba(8,187,145,1) 80%);
+  background: rgb(11,18,29);
+  background: linear-gradient(30deg, rgba(11,18,29,1) 0%, rgba(46,71,122,1) 19%, rgba(45,70,120,1) 45%, rgba(71,59,138,1) 62%, rgba(28,35,49,1) 85%);
 }
