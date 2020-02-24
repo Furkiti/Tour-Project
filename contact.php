@@ -23,7 +23,7 @@
   <!-- Navigation -->
   <?php
 
-  require_once("piecesofpages/upperbar.php");
+  require_once("inc_upperbar.html");
 
   ?>
   <!-- Page Content -->
@@ -117,7 +117,7 @@
   <!-- Footer -->
   <?php
 
-  require_once("piecesofpages/footer.php");
+  require_once("inc_footer.html");
 
 
    ?>
