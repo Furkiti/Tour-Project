@@ -99,6 +99,12 @@
   </div>
   <!-- /.container -->
 
+  <?php
+
+  require_once("inc_gototop.html");
+
+  ?>
+
   <!-- Footer -->
   <?php
 

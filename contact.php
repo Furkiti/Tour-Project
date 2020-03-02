@@ -132,6 +132,11 @@
     <!-- In order to set the email address and subject line for the contact form go to the bin/contact_me.php file. -->
 
     <!-- /.row -->
+    <?php
+
+    require_once("inc_gototop.html");
+
+    ?>
 
   </div>
   <!-- /.container -->

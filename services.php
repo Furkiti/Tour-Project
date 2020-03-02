@@ -31,19 +31,14 @@
   <div class="container">
 
     <!-- Page Heading/Breadcrumbs -->
-    <h1 class="mt-4 mb-3">Services
-      <small>Subheading</small>
-    </h1>
+    <h1 class="mt-4 mb-3">Turlarımız</h1>
 
     <ol class="breadcrumb">
       <li class="breadcrumb-item">
-        <a href="index.html">Home</a>
+        <a href="index.php">Ana Sayfa</a>
       </li>
-      <li class="breadcrumb-item active">Services</li>
+      <li class="breadcrumb-item active">Turlarımız</li>
     </ol>
-
-    <!-- Image Header -->
-    <img class="img-fluid rounded mb-4" src="http://placehold.it/1200x300" alt="">
 
     <!-- Marketing Icons Section -->
     <div class="row">
@@ -81,6 +76,12 @@
         </div>
       </div>
     </div>
+
+    <?php
+
+    require_once("inc_gototop.html");
+
+    ?>
     <!-- /.row -->
 
   </div>

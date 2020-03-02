@@ -163,6 +163,12 @@
     </div>
     <!-- /.row -->
 
+    <?php
+
+    require_once("inc_gototop.html");
+
+    ?>
+
   </div>
   <!-- /.container -->
 
