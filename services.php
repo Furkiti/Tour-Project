@@ -16,6 +16,9 @@
   <!-- Custom styles for this template -->
   <link href="css/modern-business.css" rel="stylesheet">
 
+  <link rel="stylesheet" href="css/services.css">
+  <link rel="stylesheet" href="css/index.css">
+
 </head>
 
 <body>
@@ -42,39 +45,699 @@
 
     <!-- Marketing Icons Section -->
     <div class="row">
-      <div class="col-lg-4 mb-4">
-        <div class="card h-100">
-          <h4 class="card-header">Card Title</h4>
-          <div class="card-body">
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
-          </div>
-          <div class="card-footer">
-            <a href="#" class="btn btn-primary">Learn More</a>
+      <div class="row selectable">
+
+        <button type="button" class="btn">Tüm Turlar</button>
+        <button type="button" class="btn">Kültür Turları</button>
+        <button type="button" class="btn">Popüler Turlar</button>
+        <button type="button" class="btn">Amerika Turları</button>
+
+      </div>
+
+      <div class="row main tours">
+
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <span class="discount">
+
+              <span class="percentage">%</span>
+
+              <span class="percentageofdiscount">50</span>
+              <br>
+              <span class="disc">indirim</span>
+
+
+            </span>
+            <a href="amsterdam.php"><img class="card-img-top" src="img/Amsterdam/00.jpg" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="amsterdam.php">Amsterdam Turu</a>
+              </h4>
+              <p class="card-text">Amsterdam/Hollanda</p>
+              <hr class="card-hr">
+              <div class="card-info row">
+                <div class="col-5 services">
+                  &nbsp;  Hizmetler
+                  <hr>
+                  <div class="servicesicons">
+                      <i class="fas fa-plane" alt="asdas"></i>
+                      <i class="fas fa-utensils"></i>
+                      <i class="fas fa-home"></i>
+                      <i class="fas fa-house-damage"></i>
+
+                  </div>
+
+
+                </div>
+
+                <a class="col-7 gototour" href="amsterdam.php">
+
+                  <button type="button" class="btn btn-info">
+
+                      <span class="old-price">7.800 TL</span>
+
+                      <div class="row current">
+                          <span class="current-price">5.799,00</span>
+                          <span class="current-currency">TL</span>
+
+                      </div>
+
+
+
+                  </button>
+
+                </a>
+
+              </div>
+            </div>
           </div>
         </div>
-      </div>
-      <div class="col-lg-4 mb-4">
-        <div class="card h-100">
-          <h4 class="card-header">Card Title</h4>
-          <div class="card-body">
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ipsam eos, nam perspiciatis natus commodi similique totam consectetur praesentium molestiae atque exercitationem ut consequuntur, sed eveniet, magni nostrum sint fuga.</p>
-          </div>
-          <div class="card-footer">
-            <a href="#" class="btn btn-primary">Learn More</a>
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <span class="discount">
+
+              <span class="percentage">%</span>
+
+              <span class="percentageofdiscount">35</span>
+              <br>
+              <span class="disc">indirim</span>
+
+
+            </span>
+            <a href="#"><img class="card-img-top" src="img/Paris/00.jpg" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="#">Paris Turu</a>
+              </h4>
+              <p class="card-text">Paris/Fransa</p>
+              <hr class="card-hr">
+              <div class="card-info row">
+                <div class="col-5 services">
+                  &nbsp;  Hizmetler
+                  <hr>
+                  <div class="servicesicons">
+                      <i class="fas fa-plane" alt="asdas"></i>
+                      <i class="fas fa-utensils"></i>
+                      <i class="fas fa-home"></i>
+                      <i class="fas fa-question"></i>
+                  </div>
+
+
+                </div>
+
+                <div class="col-7 gototour">
+
+                  <button type="button" class="btn btn-info">
+
+                      <span class="old-price">7.500 TL</span>
+
+                      <div class="row current">
+                          <span class="current-price">4.599,00</span>
+                          <span class="current-currency">TL</span>
+
+                      </div>
+
+
+
+                  </button>
+
+                </div>
+
+              </div>
+            </div>
           </div>
         </div>
-      </div>
-      <div class="col-lg-4 mb-4">
-        <div class="card h-100">
-          <h4 class="card-header">Card Title</h4>
-          <div class="card-body">
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
-          </div>
-          <div class="card-footer">
-            <a href="#" class="btn btn-primary">Learn More</a>
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <span class="discount">
+
+              <span class="percentage">%</span>
+
+              <span class="percentageofdiscount">35</span>
+              <br>
+              <span class="disc">indirim</span>
+
+
+            </span>
+            <a href="#"><img class="card-img-top" src="img/Londra/00.jpg" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="#">Londra Turu</a>
+              </h4>
+              <p class="card-text">Londra/Birleşik Krallık</p>
+              <hr class="card-hr">
+              <div class="card-info row">
+                <div class="col-5 services">
+                  &nbsp;  Hizmetler
+                  <hr>
+                  <div class="servicesicons">
+                      <i class="fas fa-plane" alt="asdas"></i>
+                      <i class="fas fa-utensils"></i>
+                      <i class="fas fa-home"></i>
+                      <i class="fas fa-question"></i>
+                  </div>
+
+
+                </div>
+
+                <div class="col-7 gototour">
+
+                  <button type="button" class="btn btn-info">
+
+                      <span class="old-price">10.500 TL</span>
+
+                      <div class="row current">
+                          <span class="current-price">8.799,00</span>
+                          <span class="current-currency">TL</span>
+
+                      </div>
+
+
+
+                  </button>
+
+                </div>
+
+              </div>
+            </div>
           </div>
         </div>
+
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <span class="discount">
+
+              <span class="percentage">%</span>
+
+              <span class="percentageofdiscount">50</span>
+              <br>
+              <span class="disc">indirim</span>
+
+
+            </span>
+            <a href="#"><img class="card-img-top" src="https://via.placeholder.com/360x240" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="#">Amsterdam Turu</a>
+              </h4>
+              <p class="card-text">Amsterdam/Hollanda</p>
+              <hr class="card-hr">
+              <div class="card-info row">
+                <div class="col-5 services">
+                  &nbsp;  Hizmetler
+                  <hr>
+                  <div class="servicesicons">
+                      <i class="fas fa-plane" alt="asdas"></i>
+                      <i class="fas fa-utensils"></i>
+                      <i class="fas fa-home"></i>
+                      <i class="fas fa-house-damage"></i>
+
+                  </div>
+
+
+                </div>
+
+                <div class="col-7 gototour">
+
+                  <button type="button" class="btn btn-info">
+
+                      <span class="old-price">7.800 TL</span>
+
+                      <div class="row current">
+                          <span class="current-price">5.799,00</span>
+                          <span class="current-currency">TL</span>
+
+                      </div>
+
+
+
+                  </button>
+
+                </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <span class="discount">
+
+              <span class="percentage">%</span>
+
+              <span class="percentageofdiscount">50</span>
+              <br>
+              <span class="disc">indirim</span>
+
+
+            </span>
+            <a href="#"><img class="card-img-top" src="https://via.placeholder.com/360x240" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="#">Amsterdam Turu</a>
+              </h4>
+              <p class="card-text">Amsterdam/Hollanda</p>
+              <hr class="card-hr">
+              <div class="card-info row">
+                <div class="col-5 services">
+                  &nbsp;  Hizmetler
+                  <hr>
+                  <div class="servicesicons">
+                      <i class="fas fa-plane" alt="asdas"></i>
+                      <i class="fas fa-utensils"></i>
+                      <i class="fas fa-home"></i>
+                      <i class="fas fa-house-damage"></i>
+
+                  </div>
+
+
+                </div>
+
+                <div class="col-7 gototour">
+
+                  <button type="button" class="btn btn-info">
+
+                      <span class="old-price">7.800 TL</span>
+
+                      <div class="row current">
+                          <span class="current-price">5.799,00</span>
+                          <span class="current-currency">TL</span>
+
+                      </div>
+
+
+
+                  </button>
+
+                </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <span class="discount">
+
+              <span class="percentage">%</span>
+
+              <span class="percentageofdiscount">50</span>
+              <br>
+              <span class="disc">indirim</span>
+
+
+            </span>
+            <a href="#"><img class="card-img-top" src="https://via.placeholder.com/360x240" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="#">Amsterdam Turu</a>
+              </h4>
+              <p class="card-text">Amsterdam/Hollanda</p>
+              <hr class="card-hr">
+              <div class="card-info row">
+                <div class="col-5 services">
+                  &nbsp;  Hizmetler
+                  <hr>
+                  <div class="servicesicons">
+                      <i class="fas fa-plane" alt="asdas"></i>
+                      <i class="fas fa-utensils"></i>
+                      <i class="fas fa-home"></i>
+                      <i class="fas fa-house-damage"></i>
+
+                  </div>
+
+
+                </div>
+
+                <div class="col-7 gototour">
+
+                  <button type="button" class="btn btn-info">
+
+                      <span class="old-price">7.800 TL</span>
+
+                      <div class="row current">
+                          <span class="current-price">5.799,00</span>
+                          <span class="current-currency">TL</span>
+
+                      </div>
+
+
+
+                  </button>
+
+                </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <span class="discount">
+
+              <span class="percentage">%</span>
+
+              <span class="percentageofdiscount">50</span>
+              <br>
+              <span class="disc">indirim</span>
+
+
+            </span>
+            <a href="#"><img class="card-img-top" src="https://via.placeholder.com/360x240" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="#">Amsterdam Turu</a>
+              </h4>
+              <p class="card-text">Amsterdam/Hollanda</p>
+              <hr class="card-hr">
+              <div class="card-info row">
+                <div class="col-5 services">
+                  &nbsp;  Hizmetler
+                  <hr>
+                  <div class="servicesicons">
+                      <i class="fas fa-plane" alt="asdas"></i>
+                      <i class="fas fa-utensils"></i>
+                      <i class="fas fa-home"></i>
+                      <i class="fas fa-house-damage"></i>
+
+                  </div>
+
+
+                </div>
+
+                <div class="col-7 gototour">
+
+                  <button type="button" class="btn btn-info">
+
+                      <span class="old-price">7.800 TL</span>
+
+                      <div class="row current">
+                          <span class="current-price">5.799,00</span>
+                          <span class="current-currency">TL</span>
+
+                      </div>
+
+
+
+                  </button>
+
+                </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <span class="discount">
+
+              <span class="percentage">%</span>
+
+              <span class="percentageofdiscount">50</span>
+              <br>
+              <span class="disc">indirim</span>
+
+
+            </span>
+            <a href="#"><img class="card-img-top" src="https://via.placeholder.com/360x240" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="#">Amsterdam Turu</a>
+              </h4>
+              <p class="card-text">Amsterdam/Hollanda</p>
+              <hr class="card-hr">
+              <div class="card-info row">
+                <div class="col-5 services">
+                  &nbsp;  Hizmetler
+                  <hr>
+                  <div class="servicesicons">
+                      <i class="fas fa-plane" alt="asdas"></i>
+                      <i class="fas fa-utensils"></i>
+                      <i class="fas fa-home"></i>
+                      <i class="fas fa-house-damage"></i>
+
+                  </div>
+
+
+                </div>
+
+                <div class="col-7 gototour">
+
+                  <button type="button" class="btn btn-info">
+
+                      <span class="old-price">7.800 TL</span>
+
+                      <div class="row current">
+                          <span class="current-price">5.799,00</span>
+                          <span class="current-currency">TL</span>
+
+                      </div>
+
+
+
+                  </button>
+
+                </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <span class="discount">
+
+              <span class="percentage">%</span>
+
+              <span class="percentageofdiscount">50</span>
+              <br>
+              <span class="disc">indirim</span>
+
+
+            </span>
+            <a href="#"><img class="card-img-top" src="https://via.placeholder.com/360x240" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="#">Amsterdam Turu</a>
+              </h4>
+              <p class="card-text">Amsterdam/Hollanda</p>
+              <hr class="card-hr">
+              <div class="card-info row">
+                <div class="col-5 services">
+                  &nbsp;  Hizmetler
+                  <hr>
+                  <div class="servicesicons">
+                      <i class="fas fa-plane" alt="asdas"></i>
+                      <i class="fas fa-utensils"></i>
+                      <i class="fas fa-home"></i>
+                      <i class="fas fa-house-damage"></i>
+
+                  </div>
+
+
+                </div>
+
+                <div class="col-7 gototour">
+
+                  <button type="button" class="btn btn-info">
+
+                      <span class="old-price">7.800 TL</span>
+
+                      <div class="row current">
+                          <span class="current-price">5.799,00</span>
+                          <span class="current-currency">TL</span>
+
+                      </div>
+
+
+
+                  </button>
+
+                </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <span class="discount">
+
+              <span class="percentage">%</span>
+
+              <span class="percentageofdiscount">50</span>
+              <br>
+              <span class="disc">indirim</span>
+
+
+            </span>
+            <a href="#"><img class="card-img-top" src="https://via.placeholder.com/360x240" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="#">Amsterdam Turu</a>
+              </h4>
+              <p class="card-text">Amsterdam/Hollanda</p>
+              <hr class="card-hr">
+              <div class="card-info row">
+                <div class="col-5 services">
+                  &nbsp;  Hizmetler
+                  <hr>
+                  <div class="servicesicons">
+                      <i class="fas fa-plane" alt="asdas"></i>
+                      <i class="fas fa-utensils"></i>
+                      <i class="fas fa-home"></i>
+                      <i class="fas fa-house-damage"></i>
+
+                  </div>
+
+
+                </div>
+
+                <div class="col-7 gototour">
+
+                  <button type="button" class="btn btn-info">
+
+                      <span class="old-price">7.800 TL</span>
+
+                      <div class="row current">
+                          <span class="current-price">5.799,00</span>
+                          <span class="current-currency">TL</span>
+
+                      </div>
+
+
+
+                  </button>
+
+                </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <span class="discount">
+
+              <span class="percentage">%</span>
+
+              <span class="percentageofdiscount">50</span>
+              <br>
+              <span class="disc">indirim</span>
+
+
+            </span>
+            <a href="#"><img class="card-img-top" src="https://via.placeholder.com/360x240" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="#">Amsterdam Turu</a>
+              </h4>
+              <p class="card-text">Amsterdam/Hollanda</p>
+              <hr class="card-hr">
+              <div class="card-info row">
+                <div class="col-5 services">
+                  &nbsp;  Hizmetler
+                  <hr>
+                  <div class="servicesicons">
+                      <i class="fas fa-plane" alt="asdas"></i>
+                      <i class="fas fa-utensils"></i>
+                      <i class="fas fa-home"></i>
+                      <i class="fas fa-house-damage"></i>
+
+                  </div>
+
+
+                </div>
+
+                <div class="col-7 gototour">
+
+                  <button type="button" class="btn btn-info">
+
+                      <span class="old-price">7.800 TL</span>
+
+                      <div class="row current">
+                          <span class="current-price">5.799,00</span>
+                          <span class="current-currency">TL</span>
+
+                      </div>
+
+
+
+                  </button>
+
+                </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <span class="discount">
+
+              <span class="percentage">%</span>
+
+              <span class="percentageofdiscount">50</span>
+              <br>
+              <span class="disc">indirim</span>
+
+
+            </span>
+            <a href="#"><img class="card-img-top" src="https://via.placeholder.com/360x240" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="#">Amsterdam Turu</a>
+              </h4>
+              <p class="card-text">Amsterdam/Hollanda</p>
+              <hr class="card-hr">
+              <div class="card-info row">
+                <div class="col-5 services">
+                  &nbsp;  Hizmetler
+                  <hr>
+                  <div class="servicesicons">
+                      <i class="fas fa-plane" alt="asdas"></i>
+                      <i class="fas fa-utensils"></i>
+                      <i class="fas fa-home"></i>
+                      <i class="fas fa-house-damage"></i>
+
+                  </div>
+
+
+                </div>
+
+                <div class="col-7 gototour">
+
+                  <button type="button" class="btn btn-info">
+
+                      <span class="old-price">7.800 TL</span>
+
+                      <div class="row current">
+                          <span class="current-price">5.799,00</span>
+                          <span class="current-currency">TL</span>
+
+                      </div>
+
+
+
+                  </button>
+
+                </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+
       </div>
+
     </div>
 
     <?php

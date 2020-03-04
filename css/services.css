@@ -1,0 +1,19 @@
+.row .selectable .btn{
+  margin-left: 7em;
+  background-color:#E0E5EC !important;
+  box-shadow: 9px 9px 16px rgb(163,177,198,0.6), -9px -9px 16px    rgba(255,255,255, 0.5) !important;
+  color: ;
+}
+
+.row .main{
+  margin-top: 2em;
+}
+
+body{
+  background: #E0E5EC;
+}
+
+
+.breadcrumb{
+  background-color: #E0E5EC;
+}

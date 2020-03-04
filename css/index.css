@@ -1,3 +1,7 @@
+body{
+  background-color:#E0E5EC;
+}
+
 .indexcontainer{
   padding-bottom: 5em;
 }
@@ -44,6 +48,14 @@
 
 .card-body{
   padding: 10px !important;
+  background-color:#E0E5EC;
+  filter: contrast(1.1);
+}
+
+.tours .card-body{
+  padding: 10px !important;
+  background-color:#E0E5EC;
+  filter: contrast(1.1);
 }
 
 .card-info hr{
