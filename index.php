@@ -15,11 +15,13 @@
   <!-- Custom styles for this template -->
   <link href="css/modern-business.css" rel="stylesheet">
 
+  <!-- Ana Sayfa CSS Dosyası -->
   <link rel="stylesheet" href="css/index.css">
 
 </head>
 
 <body>
+
 
   <!-- Navigation -->
 
@@ -28,6 +30,8 @@
   require_once("inc_upperbar.html");
 
   ?>
+
+    <!-- Navigation End-->
 
 
   <header>
@@ -121,7 +125,21 @@
     <div class="row">
       <div class="col-lg-4 col-sm-6 portfolio-item">
         <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="img/Ankara/00.jpg" alt=""></a>
+          <a href="#">
+
+            <span class="discount">
+
+              <span class="percentage">%</span>
+
+              <span class="percentageofdiscount">50</span>
+              <br>
+              <span class="disc">indirim</span>
+
+
+            </span>
+            <img class="card-img-top" src="img/Ankara/00.jpg" alt="">
+
+          </a>
           <div class="card-body">
             <h4 class="card-title">
               <a href="#">Ankara Turu</a>
@@ -132,6 +150,16 @@
       </div>
       <div class="col-lg-4 col-sm-6 portfolio-item">
         <div class="card h-100">
+          <span class="discount">
+
+            <span class="percentage">%</span>
+
+            <span class="percentageofdiscount">50</span>
+            <br>
+            <span class="disc">indirim</span>
+
+
+          </span>
           <a href="#"><img class="card-img-top" src="img/İstanbul/00.jpg" alt=""></a>
           <div class="card-body">
             <h4 class="card-title">
@@ -143,6 +171,16 @@
       </div>
       <div class="col-lg-4 col-sm-6 portfolio-item">
         <div class="card h-100">
+          <span class="discount">
+
+            <span class="percentage">%</span>
+
+            <span class="percentageofdiscount">50</span>
+            <br>
+            <span class="disc">indirim</span>
+
+
+          </span>
           <a href="#"><img class="card-img-top" src="img/İzmir/01.jpg" alt=""></a>
           <div class="card-body">
             <h4 class="card-title">
@@ -163,6 +201,16 @@
 
       <div class="col-lg-4 col-sm-6 portfolio-item">
         <div class="card h-100">
+          <span class="discount">
+
+            <span class="percentage">%</span>
+
+            <span class="percentageofdiscount">50</span>
+            <br>
+            <span class="disc">indirim</span>
+
+
+          </span>
           <a href="#"><img class="card-img-top" src="img/Amsterdam/00.jpg" alt=""></a>
           <div class="card-body">
             <h4 class="card-title">
@@ -174,6 +222,16 @@
       </div>
       <div class="col-lg-4 col-sm-6 portfolio-item">
         <div class="card h-100">
+          <span class="discount">
+
+            <span class="percentage">%</span>
+
+            <span class="percentageofdiscount">50</span>
+            <br>
+            <span class="disc">indirim</span>
+
+
+          </span>
           <a href="#"><img class="card-img-top" src="img/Paris/00.jpg" alt=""></a>
           <div class="card-body">
             <h4 class="card-title">
@@ -185,6 +243,16 @@
       </div>
       <div class="col-lg-4 col-sm-6 portfolio-item">
         <div class="card h-100">
+          <span class="discount">
+
+            <span class="percentage">%</span>
+
+            <span class="percentageofdiscount">50</span>
+            <br>
+            <span class="disc">indirim</span>
+
+
+          </span>
           <a href="#"><img class="card-img-top" src="img/Londra/00.jpg" alt=""></a>
           <div class="card-body">
             <h4 class="card-title">
