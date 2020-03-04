@@ -29,3 +29,84 @@
 .disc{
   color: #fff !important;
 }
+
+.card-text{
+  font-size: 0.8rem !important;
+  color: #ed1c24 !important;
+  margin-bottom: 8px !important;
+}
+
+.card-title{
+  text-align: center;
+  font-size: 1em;
+  margin: 0 !important;
+}
+
+.card-body{
+  padding: 10px !important;
+}
+
+.card-info hr{
+  margin: 1px;
+  margin-bottom: 3px;
+  width:90%;
+}
+.card-hr{
+  margin: 1px;
+  margin-bottom: 3px;
+
+}
+
+.servicesicons{
+  padding-left: 5px;
+}
+
+.servicesicons .fas{
+  padding-left: 0.2em;
+}
+
+.services{
+  padding-left: 1em;
+}
+
+.card-info .gototour{
+  padding-right: 0px !important;
+}
+
+.gototour .btn{
+  width: 13em;
+  position: relative;
+  display: block;
+  height: 5em !important;
+
+}
+
+.buttoninside{
+  position: relative;
+}
+
+.old-price{
+  color : #7d7d7d;
+  text-decoration: line-through;
+  position: absolute;
+  top: 1px;
+  left: 1em;
+  font-size: 1.1em;
+
+}
+
+.current{
+  margin-top: 1em;
+}
+
+.current-price{
+  display: inline-block;
+  padding-left: 1em;
+  font-size: 1.7em;
+}
+
+.current-currency{
+  display: inline-block;
+  padding-left: 0.2em;
+  margin-top: 0.8em;
+}

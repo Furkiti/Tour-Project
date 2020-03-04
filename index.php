@@ -131,7 +131,7 @@
 
               <span class="percentage">%</span>
 
-              <span class="percentageofdiscount">50</span>
+              <span class="percentageofdiscount">20</span>
               <br>
               <span class="disc">indirim</span>
 
@@ -144,7 +144,41 @@
             <h4 class="card-title">
               <a href="#">Ankara Turu</a>
             </h4>
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae? Nihil, dolorem!</p>
+            <p class="card-text">Ankara/Türkiye</p>
+            <hr class="card-hr">
+            <div class="card-info row">
+              <div class="col-5 services">
+                &nbsp;  Hizmetler
+                <hr>
+                <div class="servicesicons">
+                    <i class="fas fa-plane" alt="asdas"></i>
+                    <i class="fas fa-utensils"></i>
+                    <i class="fas fa-home"></i>
+                    <i class="fas fa-question"></i>
+                </div>
+
+
+              </div>
+
+              <div class="col-7 gototour">
+
+                <button type="button" class="btn btn-info">
+
+                    <span class="old-price">2.500 TL</span>
+
+                    <div class="row current">
+                        <span class="current-price">1.799,00</span>
+                        <span class="current-currency">TL</span>
+
+                    </div>
+
+
+
+                </button>
+
+              </div>
+
+            </div>
           </div>
         </div>
       </div>
@@ -154,7 +188,7 @@
 
             <span class="percentage">%</span>
 
-            <span class="percentageofdiscount">50</span>
+            <span class="percentageofdiscount">45</span>
             <br>
             <span class="disc">indirim</span>
 
@@ -165,7 +199,41 @@
             <h4 class="card-title">
               <a href="#">İstanbul Turu</a>
             </h4>
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+            <p class="card-text">İstanbul/Türkiye</p>
+            <hr class="card-hr">
+            <div class="card-info row">
+              <div class="col-5 services">
+                &nbsp;  Hizmetler
+                <hr>
+                <div class="servicesicons">
+                    <i class="fas fa-plane" alt="asdas"></i>
+                    <i class="fas fa-utensils"></i>
+                    <i class="fas fa-home"></i>
+                    <i class="fas fa-question"></i>
+                </div>
+
+
+              </div>
+
+              <div class="col-7 gototour">
+
+                <button type="button" class="btn btn-info">
+
+                    <span class="old-price">3.799 TL</span>
+
+                    <div class="row current">
+                        <span class="current-price">2.599,00</span>
+                        <span class="current-currency">TL</span>
+
+                    </div>
+
+
+
+                </button>
+
+              </div>
+
+            </div>
           </div>
         </div>
       </div>
@@ -175,7 +243,7 @@
 
             <span class="percentage">%</span>
 
-            <span class="percentageofdiscount">50</span>
+            <span class="percentageofdiscount">30</span>
             <br>
             <span class="disc">indirim</span>
 
@@ -186,7 +254,41 @@
             <h4 class="card-title">
               <a href="#">İzmir Turu</a>
             </h4>
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos quisquam, error quod sed cumque, odio distinctio velit nostrum temporibus necessitatibus et facere atque iure perspiciatis mollitia recusandae vero vel quam!</p>
+            <p class="card-text">İzmir/Türkiye</p>
+            <hr class="card-hr">
+            <div class="card-info row">
+              <div class="col-5 services">
+                &nbsp;  Hizmetler
+                <hr>
+                <div class="servicesicons">
+                    <i class="fas fa-bus"></i>
+                    <i class="fas fa-utensils"></i>
+                    <i class="fas fa-home"></i>
+
+                </div>
+
+
+              </div>
+
+              <div class="col-7 gototour">
+
+                <button type="button" class="btn btn-info">
+
+                    <span class="old-price">5.500 TL</span>
+
+                    <div class="row current">
+                        <span class="current-price">4.000,00</span>
+                        <span class="current-currency">TL</span>
+
+                    </div>
+
+
+
+                </button>
+
+              </div>
+
+            </div>
           </div>
         </div>
       </div>
@@ -216,7 +318,42 @@
             <h4 class="card-title">
               <a href="#">Amsterdam Turu</a>
             </h4>
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+            <p class="card-text">Amsterdam/Hollanda</p>
+            <hr class="card-hr">
+            <div class="card-info row">
+              <div class="col-5 services">
+                &nbsp;  Hizmetler
+                <hr>
+                <div class="servicesicons">
+                    <i class="fas fa-plane" alt="asdas"></i>
+                    <i class="fas fa-utensils"></i>
+                    <i class="fas fa-home"></i>
+                    <i class="fas fa-house-damage"></i>
+
+                </div>
+
+
+              </div>
+
+              <div class="col-7 gototour">
+
+                <button type="button" class="btn btn-info">
+
+                    <span class="old-price">7.800 TL</span>
+
+                    <div class="row current">
+                        <span class="current-price">5.799,00</span>
+                        <span class="current-currency">TL</span>
+
+                    </div>
+
+
+
+                </button>
+
+              </div>
+
+            </div>
           </div>
         </div>
       </div>
@@ -226,7 +363,7 @@
 
             <span class="percentage">%</span>
 
-            <span class="percentageofdiscount">50</span>
+            <span class="percentageofdiscount">35</span>
             <br>
             <span class="disc">indirim</span>
 
@@ -237,7 +374,41 @@
             <h4 class="card-title">
               <a href="#">Paris Turu</a>
             </h4>
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+            <p class="card-text">Paris/Fransa</p>
+            <hr class="card-hr">
+            <div class="card-info row">
+              <div class="col-5 services">
+                &nbsp;  Hizmetler
+                <hr>
+                <div class="servicesicons">
+                    <i class="fas fa-plane" alt="asdas"></i>
+                    <i class="fas fa-utensils"></i>
+                    <i class="fas fa-home"></i>
+                    <i class="fas fa-question"></i>
+                </div>
+
+
+              </div>
+
+              <div class="col-7 gototour">
+
+                <button type="button" class="btn btn-info">
+
+                    <span class="old-price">7.500 TL</span>
+
+                    <div class="row current">
+                        <span class="current-price">4.599,00</span>
+                        <span class="current-currency">TL</span>
+
+                    </div>
+
+
+
+                </button>
+
+              </div>
+
+            </div>
           </div>
         </div>
       </div>
@@ -247,7 +418,7 @@
 
             <span class="percentage">%</span>
 
-            <span class="percentageofdiscount">50</span>
+            <span class="percentageofdiscount">35</span>
             <br>
             <span class="disc">indirim</span>
 
@@ -258,7 +429,41 @@
             <h4 class="card-title">
               <a href="#">Londra Turu</a>
             </h4>
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque earum nostrum suscipit ducimus nihil provident, perferendis rem illo, voluptate atque, sit eius in voluptates, nemo repellat fugiat excepturi! Nemo, esse.</p>
+            <p class="card-text">Londra/Birleşik Krallık</p>
+            <hr class="card-hr">
+            <div class="card-info row">
+              <div class="col-5 services">
+                &nbsp;  Hizmetler
+                <hr>
+                <div class="servicesicons">
+                    <i class="fas fa-plane" alt="asdas"></i>
+                    <i class="fas fa-utensils"></i>
+                    <i class="fas fa-home"></i>
+                    <i class="fas fa-question"></i>
+                </div>
+
+
+              </div>
+
+              <div class="col-7 gototour">
+
+                <button type="button" class="btn btn-info">
+
+                    <span class="old-price">10.500 TL</span>
+
+                    <div class="row current">
+                        <span class="current-price">8.799,00</span>
+                        <span class="current-currency">TL</span>
+
+                    </div>
+
+
+
+                </button>
+
+              </div>
+
+            </div>
           </div>
         </div>
       </div>
