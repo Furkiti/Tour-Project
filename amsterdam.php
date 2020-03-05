@@ -47,7 +47,7 @@
                       <img src="img/Amsterdam/01.jpg" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-item">
-                      <img src="https://via.placeholder.com/800x500" class="d-block w-100" alt="...">
+                      <img src="img/Amsterdam/02.jpg" class="d-block w-100" alt="...">
                     </div>
                   </div>
                   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
