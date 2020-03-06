@@ -31,6 +31,8 @@
 
   ?>
 
+
+
     <!-- Navigation End-->
 
 
@@ -112,13 +114,18 @@
   <!-- Page Content -->
   <div class="container indexcontainer">
 
-    <h1 class="my-4" style="text-align:center;">EN ÇOK TERCİH EDİLEN TURLARIMIZ</h1>
+    <h1 class="my-4" id="mainh1" style="text-align:center;">EN ÇOK TERCİH EDİLEN TURLARIMIZ</h1>
+
     <hr>
 
 
 
     <!-- Portfolio Section -->
-    <h2>Yurtiçi <small style="font-size:0.6em; color: gray;">(En Çok Tercih Edilen Yurtiçi Turlarımız)</small></h2>
+    <h2 style="display:inline;"><span id="mainh2">Yurtiçi</span> <small style="font-size:0.6em; color: gray;">(En Çok Tercih Edilen Yurtiçi Turlarımız)</small></h2>
+
+    <?php
+     require_once("inc_darkmode.html");
+     ?>
 
     <hr>
 
@@ -296,7 +303,7 @@
     </div>
 
 
-    <h2>Yurtdışı <small style="font-size:0.6em; color: gray;">(En Çok Tercih Edilen Yurtdışı Turlarımız)</small></h2>
+    <h2><span id="mainh3">Yurtdışı</span> <small style="font-size:0.6em; color: gray;">(En Çok Tercih Edilen Yurtdışı Turlarımız)</small></h2>
     <hr>
 
     <div class="row">
