@@ -26,9 +26,6 @@ Bu kullanımları burada tek tek anlatmaktansa verdiğim linklerdeki kullanımla
 
 ### Beğendiğim Etiketler
 
-- `<center></center>` etiketi arasına yazdığınız yazıları sayfanın ortasına(merkezine) yerleştirebilirsiniz.
-> Kullanımı ; <center> Yazılar Ortada Gözüküyor. </center>
-
 - `<pre></pre>` etiketi ile yazdığınız yazı nasılsa öyle gözükmesini sağlar . Örnek olarak iki kelime arasına space tuşuna ek olarak fazla boşluk  bırakmak istiyorum . Yada satır atlarken ne kadar boşluk bırakırsam bırakıyım tek satır aşağı inebiliyorum . Bu etiket sayesinde ben ne kadar boşluk bırakırsam ona göre şekil alan bir yazı ortaya çıkıyor.
 > Kullanımı ;
 > <pre>Şuanda     bir boşluktan fazlasını          bıraktım .  İstersem
@@ -37,6 +34,4 @@ Bu kullanımları burada tek tek anlatmaktansa verdiğim linklerdeki kullanımla
 >
 >birden fazla satır boşlukta bırakabilirim.</pre>
 					
-					
-	
 
