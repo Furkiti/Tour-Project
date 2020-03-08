@@ -8,7 +8,6 @@ Tur projesi kapsamında öğrendiğim teknolojileri ,siteleri,araçları vb. kaz
 ### Markdown
 
 - [Markdown İşaretleme Dili Nedir ve  Nasıl Kullanılır ?](mynotes/markdown-nedir.md)
-- [Markdown İçerisinde HTML Etiketleri kullanma](mynotes/markdown-html-iliskisi.md)
 - [Markdown Editörleri](mynotes/markdown-editor.md)
 
 
