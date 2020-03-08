@@ -18,12 +18,25 @@ Markdown, **John Gruber** ve **Aaron Swartz** tarafından geliştirilmiş ve 200
 	
 Bu kullanımları burada tek tek anlatmaktansa verdiğim linklerdeki kullanımlara bakmak çok daha verimli . Bu sebeple ben daha çok bana ilginç gelen kullanımları paylaşacağım. 
 
-### Emojiler :computer:
+### Emojiler :computer: :keyboard: :computer_mouse:
 - :notebook: Emojileri notlarınızın içerisinde kullanmak mı istiyorsunuz ? Bunun için `:emoji_ismi:` yazarak istediğiniz emojiyi kolaylıkla kullanabilirsiniz. :notebook:
-- Tabii ki kullanacağınız emojinin ismini akılda tutmak zor . Sizin için emoji listelerinin olduğu sayfaları paylaşacağım.
+- Tabii ki kullanacağınız emojinin ismini akılda tutmak zor . Sizin için emoji listelerinin olduğu siteleri paylaşacağım.
 	- [https://gist.github.com/rxaviers/7360908](https://gist.github.com/rxaviers/7360908) 
+	- [https://github.com/ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) (Kategorize Edilmiş)
 
+### Beğendiğim Etiketler
 
-<pre> asdsad asdd
-asdads ads  ad      ads
-</pre>
+- `<center></center>` etiketi arasına yazdığınız yazıları sayfanın ortasına(merkezine) yerleştirebilirsiniz.
+> Kullanımı ; <center> Yazılar Ortada Gözüküyor. </center>
+
+- `<pre></pre>` etiketi ile yazdığınız yazı nasılsa öyle gözükmesini sağlar . Örnek olarak iki kelime arasına space tuşuna ek olarak fazla boşluk  bırakmak istiyorum . Yada satır atlarken ne kadar boşluk bırakırsam bırakıyım tek satır aşağı inebiliyorum . Bu etiket sayesinde ben ne kadar boşluk bırakırsam ona göre şekil alan bir yazı ortaya çıkıyor.
+> Kullanımı ;
+> <pre>Şuanda     bir boşluktan fazlasını          bıraktım .  İstersem
+>
+>
+>
+>birden fazla satır boşlukta bırakabilirim.</pre>
+					
+					
+	
+
