@@ -24,7 +24,8 @@ Bu kullanımları burada tek tek anlatmaktansa verdiğim linklerdeki kullanımla
 	- [https://gist.github.com/rxaviers/7360908](https://gist.github.com/rxaviers/7360908) 
 	- [https://github.com/ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) (Kategorize Edilmiş)
 
-### Beğendiğim Etiketler
+### Beğendiğim Kodlar
+---
 
 - `<pre></pre>` etiketi ile yazdığınız yazı nasılsa öyle gözükmesini sağlar . Örnek olarak iki kelime arasına space tuşuna ek olarak fazla boşluk  bırakmak istiyorum . Yada satır atlarken ne kadar boşluk bırakırsam bırakıyım tek satır aşağı inebiliyorum . Bu etiket sayesinde ben ne kadar boşluk bırakırsam ona göre şekil alan bir yazı ortaya çıkıyor.
 > Kullanımı ;
@@ -32,6 +33,20 @@ Bu kullanımları burada tek tek anlatmaktansa verdiğim linklerdeki kullanımla
 >
 >
 >
+>
 >birden fazla satır boşlukta bırakabilirim.</pre>
+---
+- `` işaretleri arasına yazılan yazıların arkasına hafif gri renk verir ve okunurluğu arttırır. Bu işareti <kbd> Alt Gr   </kbd> + <kbd>  ,   </kbd> tuşlarına basarak yapabilirsiniz.
+
+`Buraya yazdığım yazı  örnektir.`
+
+---
 					
+- Yazılarınızın daha düzgün gözükmesi için `---` kodunu kullanarak sayfalarınızda ince çizgiler kullanabilirsiniz.
+---
+ 
+					
+
+
+
 
