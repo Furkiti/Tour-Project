@@ -1,7 +1,6 @@
 #  :bus: Tur Projesi :bus:  
-## Amaç
 
-PHP ile tur sitesi
+PHP ile tur sitesi denemesi
 
 
 
