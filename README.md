@@ -1,6 +1,6 @@
-#  :bus: Tur Projesi :bus:  
+#  :bus: Tour Project :bus:  
 
-PHP ile tur sitesi denemesi
+This is my tour company website with PHP
 
 
 
